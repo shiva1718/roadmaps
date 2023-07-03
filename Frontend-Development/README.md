@@ -66,6 +66,8 @@
 - [CSS Diner](https://flukeout.github.io/)
 - [A complete guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [A complete guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [Learn Flexbox from scribma](https://scrimba.com/learn/flexbox)
+- [Learn CSS Grid from scrimba](https://scrimba.com/learn/cssgrid)
 
 ### Frontend Projects
 
@@ -91,6 +93,7 @@
 - [Geonsanddeveloper](http://www.dungeonsanddevelopers.com/)
 - [Namaste Javascript - Youtube](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
 - [Learn By reading blogs](https://nikk.hashnode.dev/series/javascript-series)
+- [Learn Javascript from scimba](https://scrimba.com/learn/learnjavascript)
 
 ### Understanding JavaScript
 
@@ -137,6 +140,7 @@
 - [React Router Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjkxt8TOteFdT_YmzwpBlrG)
 - [React Redux Tutorials](https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK)
 - [Free React repository 30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
+- [Learn React from scrimba](https://scrimba.com/learn/learnreact)
 
 ### Vue JS
 
@@ -183,6 +187,7 @@
 
 - [Tutorial](https://www.youtube.com/watch?v=-qfEOE4vtxE)
 - [Docs](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
+- [Learn Bootstrap from scrimba](https://scrimba.com/learn/bootstrap4)
 
 ### Chakra UI
 
